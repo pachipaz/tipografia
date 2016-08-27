@@ -1,0 +1,147 @@
+.menu {
+	width: 1084px;
+	height: 300px;
+	background-color: white;
+	margin:200px auto;
+
+}
+.avion {
+	width: 200px;
+	height: 300px;
+	background-color:#F0F8FF;
+	
+	
+}
+.ruby {
+	width: 200px;
+	height: 300px;
+	background-color:#F0F8FF;
+	margin-left: 220px;
+	margin-top: -300px;
+}
+.corazon {
+	width: 200px;
+	height: 300px;
+	background-color:#F0F8FF;
+	margin-left: 442px;
+	margin-top: -300px;
+}
+.cafe {
+	width: 200px;
+	height: 300px;
+	background-color:#F0F8FF;	
+	margin-left: 664px;
+	margin-top: -300px;
+}
+.comida {
+	width: 200px;
+	height: 300px;
+	background-color:#F0F8FF;
+	margin-left: 884px;
+	margin-top: -300px;
+}
+h3 {
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	margin-top: 112px;
+	color:#00BFFF;
+
+}
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	margin-top: 10px;
+	color:#00BFFF;
+}
+.icon-paperplane {
+	font-size: 40px;
+	margin-left: 58px;
+	margin-bottom: 45px;
+	margin-top: 15px;
+	color:#00BFFF;
+	
+	
+} 
+.icon-diamond{
+	font-size: 40px;
+	color:white;
+	margin-left: 58px;
+	color:#00BFFF;
+} 
+.icon-heart {
+	font-size: 40px;
+	color:white;
+	margin-left: 58px;
+	color:#00BFFF;
+	
+} 
+.icon-cup {
+	font-size: 40px;
+	color:white;
+	margin-left: 58px;
+	color:#00BFFF;
+	
+
+} 
+.icon-food {
+	font-size: 40px;
+	color:white;
+	margin-left: 58px;
+	color:#00BFFF;
+	
+}
+/*hover*/
+.avion:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+
+.ruby:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+.corazon:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+.cafe:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+.comida:hover{
+	background-color: #FFFFFF;
+	border:1px solid #DFDDDD;
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+	margin-right: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
